@@ -10,5 +10,8 @@ Similarly, when there is only one dependent variable, it is considered Univariat
 - Linear regression deep understanding - https://www.geeksforgeeks.org/ml-linear-regression/amp/ 
 
 
-- Video Link - https://youtu.be/nXdBGBLQjZY?si=Px1TzcatdJL3Efhe 
+- Video Link - https://youtu.be/nXdBGBLQjZY?si=Px1TzcatdJL3Efhe
+
+assignment :-
+create Using linear regression on a labeled dataset predict rainfall in a given region.  
 
